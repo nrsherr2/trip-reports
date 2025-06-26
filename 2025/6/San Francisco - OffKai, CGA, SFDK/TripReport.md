@@ -38,7 +38,15 @@ Lastly, I decided to book a hotel for myself Sunday night. This was totally opti
 
 # Monday
 
-## 
+## California's Great America 
+
+### Demon
+
+Something about the old Arrow trains just makes it so you can't brace for a ride on the first try. You have to learn how to ride the ride to avoid the pain. However, once you do learn how to brace for it, it's got some pretty good elements. 
+The tunnels at the start of the ride and after the loops are cute. You pull some pretty good forces at the bottoms of the loops, and a pinch of airtime at the peaks. The transition into the corkscrews absolutely sucks as usual, but the sheer perfection of being inside the corkscrews is unrivaled.
+- 7/10 the ride is a janky mess, but the theming and charm of the ride absolutely hold it up.
+
+### Flight Deck
 
 # Tuesday
 
