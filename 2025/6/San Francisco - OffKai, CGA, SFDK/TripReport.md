@@ -30,6 +30,16 @@ Lastly, I decided to book a hotel for myself Sunday night. This was totally opti
 
 # Thursday
 
+It turns out that I didn't need to wait to fly out! Thursday happened to be Juneteenth, which meant that I didn't have to wait to fly out. With my flight being delayed 30 minutes, I almost wished that I had taken an earlier trip. The vibes of everywhere I looked suggested that I would be able to take public transit all the way to San Jose, but I would be cutting it close. The delay did me no favors.
+
+I landed in California around 10PM. Seeing how late it was, I decided to just ball, taking public transit as far as I could.
+
+I looked up the directions to the hotel on my phone, and it seemed like I could still make it with public transit, if I hit every stop on time. With this knowledge, I added a clipper pass to my phone and prepared for multiple transfers. Being able to pay with a single pass on my phone was _huge_, especially for the amount of distance covered.
+
+I arrived at the hotel just after midnight, and after an awkward interaction getting checked in (I made it before Platypus), I was settled into the hotel room.
+
+Total cost for the day: $25 in transit fees.
+
 # Friday
 
 # Saturday 
