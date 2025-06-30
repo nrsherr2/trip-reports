@@ -43,7 +43,7 @@ I arrived at the hotel just after midnight, and after an awkward interaction get
 - BART: SFO - Millbrae
 - CalTrain: Millbrae - San Jose Diridon
 
-$13.20 Fare (had to load $20, as CalTrain refunds you after you get off. Had to pay $12.20 to get on the train)
+$13.20 Fare (had to load $20, as CalTrain refunds you after you get off. Had to pay $12.20 to get on the train, and got refunded $4.50)
 
 # Friday
 
