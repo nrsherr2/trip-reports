@@ -38,7 +38,12 @@ I looked up the directions to the hotel on my phone, and it seemed like I could 
 
 I arrived at the hotel just after midnight, and after an awkward interaction getting checked in (I made it before Platypus), I was settled into the hotel room.
 
-Total cost for the day: $25 in transit fees.
+### Public Transit:
+- SFO Airport Rail
+- BART: SFO - Millbrae
+- CalTrain: Millbrae - San Jose Diridon
+
+$13.20 Fare (had to load $20, as CalTrain refunds you after you get off. Had to pay $12.20 to get on the train)
 
 # Friday
 
@@ -53,10 +58,21 @@ Total cost for the day: $25 in transit fees.
 ### Demon
 
 Something about the old Arrow trains just makes it so you can't brace for a ride on the first try. You have to learn how to ride the ride to avoid the pain. However, once you do learn how to brace for it, it's got some pretty good elements. 
-The tunnels at the start of the ride and after the loops are cute. You pull some pretty good forces at the bottoms of the loops, and a pinch of airtime at the peaks. The transition into the corkscrews absolutely sucks as usual, but the sheer perfection of being inside the corkscrews is unrivaled.
-- 7/10 the ride is a janky mess, but the theming and charm of the ride absolutely hold it up.
+
+The tunnels at the start of the ride and after the loops are cute. You pull some pretty good forces at the bottoms of the loops, and a pinch of airtime at the peaks. The transition into the corkscrews absolutely sucks as usual, but the sheer perfection of being inside the corkscrews is unrivaled. The good parts of the ride have a hard time overcoming the sheer jank of the transitions, but as an avid defender of Carolina Cyclone, I'll step up to bat for Demon.
+
+Plus, the theming on the ride is really good for a ride of that age. The deep shifted voice of the safety announcement, the tunnels, and the tree coverage all combine to make a charming experience surpassed only by the Loch Ness Monster.
 
 ### Flight Deck
+
+Demon may be able to get away with not having a station roof due to the tree coverage, but this lack of shade is extremely apparent on Flight Deck. The queue itself has some pretty good theming, getting you in the Navy fighter pilot headspace, but when you get to the station, you're reminded that you are at a Six Flags park. The most aggregious part of the station experience is that they do try to inject some theming by playing a relevant soundtrack, but one of the speakers set up to provide the stereo experience has a short in it, meaning that any time the train enters or leaves the station, the sound cuts in and out, which hurts what little immersion is left.
+
+However, since this is a coaster in the Six Flags chain, we have to set that aside and judge this ride on its elements. And here is where I drop the act, and come clean that I was comparing this ride to Afterburn from the start. These two rides are the same model, from the same era, from the same park chain, with the same original theme. Even in the on-ride experience, you can't help but feel that the elements are very similar, albeit Flight Deck missing the main attraction (the batwing). The first drop is fun, whipping you to the side while it builds up speed, leading to a beautifully built up vertical loop that maintains its positive forces the whole way through. The first major diversion Flight Deck takes is putting in a helix right after the first loop. I get that this is probably to help the ride burn of speed (and extend the super short ride time), but a helix this early in the ride makes it feel like the ride is already trying to find its way to the end. Maybe it could have taken a cue from Afterburn and included another inversion, like a sidewinder, and just installed trim brakes afterwards. Inverted coasters are best when they are performing inversions, so I don't see why they didn't. They still did the best with what they had, though, and the helix does provide good Gs.
+
+After the first helix, the zero-G roll is perfectly executed, as they are on other B&M inverts. The s-bend over the station doesn't do much, but it is a way to get prepared for the finale. This finale is the exact same as the one on Afterburn, with the added bonus of the water below. I knew the corkscrew was coming, so I was able to brace for it, and it was just as forceful as I thought it would be. Same with the final helix, providing some of the best Gs on the ride. However, with the water so close below, it's so much cooler. You can see the ripples below you as you pass by, and you hope that you don't fall into the water at the end of the corkscrew.
+
+I can't dislike this ride. It's smooth and forceful, and gives exactly the intended experience.
+
 
 # Tuesday
 
