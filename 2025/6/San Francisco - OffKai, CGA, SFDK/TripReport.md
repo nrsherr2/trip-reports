@@ -73,6 +73,13 @@ After the first helix, the zero-G roll is perfectly executed, as they are on oth
 
 I can't dislike this ride. It's smooth and forceful, and gives exactly the intended experience.
 
+### Patriot
+
+The final of the trio of coasters without a station building, this coaster makes me question why mid B&M coasters from the early 90s don't get the same nostalgia factor as mid Arrow coasters from the late 80s. Like, this coaster doesn't suck any more than rides like Demon and Corkscrew, but I have less thoughts on this ride than Demon.
+
+Basically, the first drop and loop are great. The ride's turns and helices are executed well enough, but they felt more meandering than made to provide forces. The corkscrew feels like it does on the other early B&Ms. Not much going on otherwise.
+
+For its mildness, the ride is still photogenic. I like how the ride doesn't have a rectangular layout. The paths are strategically placed around the ride in such a way that you can't really see all of the coaster at once from anywhere in the park, which makes it feel bigger. This also means that there are multiple prime viewing locations for the ride, each showing off a different element of the coaster. Kind of like Kumba, or Goliath (over Georgia). It makes the ride experience more mysterious, because you don't know how all of the elements are going to be ordered, like a ride that can entirely fit in a single photo.
 
 # Tuesday
 
