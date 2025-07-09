@@ -36,7 +36,7 @@ I landed in California around 10PM. Seeing how late it was, I decided to just ba
 
 I looked up the directions to the hotel on my phone, and it seemed like I could still make it with public transit, if I hit every stop on time. With this knowledge, I added a clipper pass to my phone and prepared for multiple transfers. Being able to pay with a single pass on my phone was _huge_, especially for the amount of distance covered.
 
-I arrived at the hotel just after midnight, and after an awkward interaction getting checked in (I made it before Platypus), I was settled into the hotel room.
+I arrived at the hotel around 12:30AM, and after an awkward interaction getting checked in (I made it before Platypus), I was settled into the hotel room. Platypus wasn't far behind, arriving at 1AM. Despite the jet lag resulting in my biological time being nearly 4AM, I was stil alert enough to open the hotel door for Platypus and reach a relatively fine state of unpacking. We both finally settled into bed at around 2AM. It wasn't a great sleeping experience, with having to get used to the mattress, pillows, room temperature, and everything else, but at that point, I was just happy to go to sleep. Luckily, I didn't have anything on my schedule until the next day at 1PM, so I was free to sleep in as late as I wanted.
 
 ### Public Transit:
 - SFO Airport Rail
@@ -46,6 +46,59 @@ I arrived at the hotel just after midnight, and after an awkward interaction get
 $13.20 Fare (had to load $20, as CalTrain refunds you after you get off. Had to pay $12.20 to get on the train, and got refunded $4.50)
 
 # Friday
+
+For some reason, I woke up at 8AM. I guess, even though I was up ridiculously late, my body still wanted to wake up at a "reasonable" hour. Since Platypus had things to do in the morning, I decided to cut my losses and go get breakfast while she got ready. I had nothing on my schedule until the Lazuli M&G at 1, so I initially planned to just hang around the hotel room, until I remembered two things I needed to do in the morning: pick up a charger for my earbuds, and pick up my convention badge. I didn't want to make Platypus follow me on the detour, so I went alone. I walked to the 7-Eleven down the street from the hotel, where I was greeted with nothing I wanted. 
+
+I was quickly introduced to the concept of public places in California not having publically available restrooms. This is devastating for me, because it adds a layer of planning to every stop I make. I do understand the position, however, because it's a huge headache for a business to maintain a public restroom. Luckily, I wasn't planning on being in too many public spaces during this trip, so it didn't affect me much.
+
+Oh, and also, the convenience store didn't have a micro-USB cable. I wish we didn't live in an age where people are still manufacturing these devices with the outdated connection.
+
+Anyway, I arrived at the convention center just after 10AM, and got into the inevitable line for badges. I was surprised at the length of the line to pick up badges. I guess not as many people got to utilize the national holiday the day before to pick up ther badge early. However, the check in process was easy - they just needed to scan my ID! Much better than having to download an app for a QR code or making the desk worker look up my name.
+
+The convention opening was quite the experience. I was still in the mindset of wasting time until 1:00, but there weren't any panels at that time that interested me. Instead, I decided to walk around and admire the convention center. The second floor was nothing but lines. Everyone was waiting in line for something.
+
+I think this is a good time to talk about lines at OffKai. For this convention, the staff decided 
+to change up how lines are organized. Instead of your typical line bunching up like the first diagram, where everyone follows in order, they made multiple parallel lines, and admitted each line in order:
+
+```
+A      * A B C
+| /-\  * | | |
+| | |  * | | |
+| | |  * | | |
+| | |  * | | |
+\_/ |  * | | |
+```
+
+Then, if the lines wrapped around the corner, they would create more lines around the corner.
+
+```
+A B C
+| | |
+| | |
+| | |
+      D ------
+      E ------
+```
+
+This is smart, because it reduces the number of line jumps from cutting corners, and also saves more space for people to walk around. However, my big problem with this system is that everything is unlabelled. You don't know which line is A, B, or C unless there is someone actively marking where the end of the line is. Additionally, you don't know where lines D or E are unless someone is pointing it out to you. It makes the experience of getting in line stressful, because you can't tell from a glance how long the line is going to be. There were a few times where I started to get in line for something over the weekend, just to see that lines D and E exist, and bailed.
+
+This is all to say that my first thing I did at the con was head to the back of the hall and randomly choose 1 of 2 lines to get in. This is probably where I got the best sense of everyone there, as the back room of the convention center held the lines for the artist's alley and the industry hall. There were _so_ many people there, all dressed in different outfits and cosplays. I could have just entertained myself for a couple hours looking around. However, once 11:00 rolled around, the industry hall opened up, and I slowly made my way in.
+
+I thought my first stop for the industry hall would be the Kawa Entertainment booth, to pick up the Lazuli birthday merchandise I pre-ordered. That booth was a little flooded, between people shopping for merch and people waiting for the first M&Gs. Failing that, I decided to check out the GlitchStars booth, to potentially sign up for a M&G there. Platypus and I were discussing it the night before, and with each talent taking 2 minutes per M&G, limited to 60 minutes total, the odds were not looking good. Since we were both unable to find places to sign up for the M&Gs online before the convention, I thought I would be able to sign up for a slot in person. That booth was crowded, so I just assumed that I would not be able to get a slot. At that point, I decided to check out the other booths.
+
+The rest of the industry hall was pretty cool. Two gamer hydration brands, a few corporations, some vtuber apps, and a random assortment of other brands that had connections to vtubers. I was interested in the BART booth, but it looked like they were still setting up when I came by. I thought it was a bit strange that Phase Connect was able to reserve the entire left side of the room, when they didn't end up using all the space. Like, they gained points back in my book by using the back corner to hold space for the lines, but the front part of the booth, with the standees, just felt like empty space. Could it have been a staging area? 
+
+After a couple laps around the industry hall, I stepped outside for some fresh air. On my way out, I saw an older woman, wearing orange, taking a selfie with the MomAtCookieBox standee, which she was about the same height as. Surely she wouldn't be that obvious? When I got outside, I noticed that the artist alley line was still filtering through. Given that information, I decided to give up and go get lunch, since I didn't know when I would be getting food next.
+
+This brings me to my biggest failure of the weekend, which is that I am hyper-aware of the parasocial divide between the VTuber and the fan, and it makes initiating a conversation hard for me. Outside of Lazuli, I don't make it a point to watch specific VTubers every time they stream. I do watch Kanna, Hina, Dizzy, Bri, and Mako whenever they're live, but I don't feel like I'm in their top-tier fans. I know most VTubers have a good memory of who is in their chat, so they would probably recognize me by name, but beyond that, the conversation would be one-way. What else could I talk about, other than "I like this one facet of what you do!" I also don't want to test boundaries with a hug or a photo, and mess up whatever plans they had. I think Bri did it best when she just went on Twitter and said "I will be there. I will post my outfits. Please say hi. I will give you a ribbon. Please DNI with my friends unless they ask." Safe to say, I spent my entire lunch brainstorming what to have a conversation about with Luli. 
+
+I had a Tofu and Egg Banh Mi sandwich. I thought the tofu was going to be lightly seasoned, but it had a full-flavor sauce about it. While it was good, it did clash with the light-tasting sandwich I expected. I always make it a point to get Vietnamese food when I go out west. Quality may have caught up out east in the last couple of years, but it just hit different the last couple times I went to Denver, and especially hit different in California.
+
+After lunch, I returned to the industry hall to get in line for literally the only thing I had planned, the Lazuli M&G. In line, I was finally able to meet up with the lads! I'll put a full list of the lads I met some point later in this document. However, the M&G was a lot of fun! The 90 seconds put a lot of pressure on me, but the relaxed nature of all of the staff really put me at ease. Lazuli, if you're reading this, the ice cream guy was gone by the next time I left the building! But don't worry, I did get ice cream later!
+
+After picking up my pre-ordered merch, I decided to make one more attempt at the artists alley. I was discouraged when I saw a huge line out front, but after walking down a little ways, I noticed that people were freely walking in and out through the other doors, so I followed them in. I didn't expect the itasha showcase to be right there inside the AA, so I took a minute to appreciate the cars. I don't really care about cars from a mechanical perspective, but I really enjoyed the lengths these people took to make sure that the art would be perfectly cropped. I don't have much to say on the artists alley itself, because it was pretty much what one would expect. I bought a bunch of stuff.
+
+After getting out of the artists alley, I spent some time reading the con information book. Checking the schedule inside of it, I locked in on going to Umi Kyoku's visual EP panel... thing. I used to watch Umi regularly, but I fell off of following her a while ago. If she's recapping the last few songs she released, I thought it would be the perfect time to go see it. Given that the time was around 1:40, and the show was at 8, I needed to fill my time with some other things. The Phase Connect show was at 3, so I decided to check out the board game library until then. 
 
 # Saturday 
 
