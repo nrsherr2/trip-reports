@@ -172,6 +172,16 @@ Basically, the first drop and loop are great. The ride's turns and helices are e
 
 For its mildness, the ride is still photogenic. I like how the ride doesn't have a rectangular layout. The paths are strategically placed around the ride in such a way that you can't really see all of the coaster at once from anywhere in the park, which makes it feel bigger. This also means that there are multiple prime viewing locations for the ride, each showing off a different element of the coaster. Kind of like Kumba, or Goliath (over Georgia). It makes the ride experience more mysterious, because you don't know how all of the elements are going to be ordered, like a ride that can entirely fit in a single photo.
 
+### Psycho Mouse
+
+For once, I unironically love a wild mouse. I had heard bad things about the operations of Arrow wild mice from enthusiasts who have been to ValleyFair, but those fears were not relevant here. The line was short, in thanks to the ride being at the back of the park. The hairpin turns at the top of the ride weren't as intense as the turns from other manufacturers, but I would rather a ride hit me with too little laterals than too many. The real shine of the ride came in the second half. Normally, on a wild mouse, the second half is a jerky mess where the ride tries to burn off speed with as much track as possible while trying to avoid the existing support pillars. Nothing about Psycho Mouse was jerky. Sure, there were quick jolts of laterals and airtime, but they didn't hurt. If it wasn't for the line picking up after I got off, and the fact that I was a single rider, I might have jumped back in line after my first ride.
+
+### Tiki Twirl
+
+For some reason, the only Disk'o style ride I have ever done was the one at Carowinds. At Fiesta Texas, I was taking a quick break for water. At Cedar Point, there were so many other rides I wanted to get laps on. At Dollywood, I never went into that county fair section, not knowing that the ride existed there until my parents rode it (and it was taken out the next month). Does Kings Island even have theirs still?  Seeing as this was one of the full disk models, and that it also had the hill in the middle, I decided that this would be the one flat ride I rode all day. It was pretty fun to take the hills in different directions. Not having to look at someone while you ride is a plus. However, I was disappointed by the hill in the middle. All it seemed to do was extend the length before we changed direction. Didn't get airtime at the crest, and didn't get positives in the valleys.
+
+However, this is where I realized what western heat is like. I hear people in progressive spaces talk endlessly about the need for shade in communities, and I never understand it. Sure, being in the shade helps you a little bit on a hot day, but the real premium deal is the fan/mister combo. However, out west, shade is king. I was there on a relatively cool day, but I didn't realize it until I was in line for this ride. Sure, it was a little hot when waiting in line, but when I got in the shade for this ride, I was suddenly chilly. It blew my mind to see what just a little shade can do.
+
 # Tuesday
 
 # Wednesday 
