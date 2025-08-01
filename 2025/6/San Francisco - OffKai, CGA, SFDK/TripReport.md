@@ -258,6 +258,32 @@ A standard Vekoma Boomerang with the old trains. I did notice the face that was 
 
 ### Superman Ultimate Flight
 
-A Premier Skyrocket II clone. The first one though! This one had a 2-car train, as opposed to the 3 that I had ridden at the Busch Gardens parks, and I feel like this actually made the ride feel different. I can't explain all the ways the ride felt different, but the forces definitely felt like they traded intensity for duration. Don't let the short section on this ride fool you, this was probably my favorite ride of the day, but since it was a clone, I don't have too much to say about the ride experience.
+A Premier Skyrocket II clone. The first one though! This one had a 2-car train, as opposed to the 3 that I had ridden at the Busch Gardens parks, and I feel like this actually made the ride feel different. I can't explain all the ways the ride felt different, but the forces definitely felt like they traded intensity for duration. Don't let the short section on this ride fool you, this was probably my favorite ride of the day, but since it was a clone, I don't have too much to say about the ride experience. As for the visuals, the outside left a lot to be desired, but I enjoyed the decoration inside the station. Sure, it was minimalistic, but they put the comic texture on all of the walls of this enclosed space, which is better than just a grey warehouse.
+
+### Joker
+
+I disproportionately like the older RMC hybrids. This is no different, but it does contain a harbinger of my least favorite element: rapid ejector hills. Near the end of the ride, the train hops up on top of a bunny hill, and instead of going back down, it only dips down a little bit, sending riders into another ejector hill on the way down. As cool as this is, and despite the great ejector force, it's so quick that it feels more painful than fun. You feel violently slammed into your lapbar for just a second, then back down. Before you can even recover from the first impact, the ride slams you up again. I am not a fan of this maneuver at all.
+
+Other than part, this is a great RMC, slotting right behind Twisted Cyclone in my RMC rankings. The first inversion, the under-flip, is as close as it gets to an RMC hybrid doing a basic corkscrew, my favorite inversion. I also appreciate that they attempted to add a zero-G stall to a smaller scale RMC. The ride gives you airtime from every angle, and each inversion feels totally different. You got your money's worth from this.
+
+They did just enough with the theming of this ride that it's actually distinct. I would say that the building decorations are unique, but it feels exactly the same as the Joker rides at Great Adventure and Over Georgia. The lead car, with Joker's face, is a nice touch. They could have just painted his face on the front or applied some logo decal, but I'm glad they went for the whole face. My favorite part, though, is the "HA HA HA" decorations hung from the structure. Wooden coaster supports take up a lot of space, but you can't paint a mural or hang a banner on them. The approach with the decorations was smart, because they still allow maintenance to inspect the suports, while looking like the Joker sprayed that graffitti on the wall.
+
+### Kong
+
+I started my day on this SLC, and it was actually unbearable like I expected! I somehow made it to 160 credits without riding an SLC, yet 2 of my last 15 credits were SLCs. While Mind Eraser (Elitch) was a generally subpar experience, Kong was as bad as people hype up the ride to be. The part that really got me was that the ride did not handle the inversions very well. Being the first train of the day, I was one of 2 people actually on the ride, meaning the train didn't clear each inversion with full speed. I had heard somewhere that unlike the B&M inverted coasters, SLCs allow for a little bit of swing, and I actually felt it at the top of the first 3 inversions. You would come all the way up, slow down a little, and feel a slam as the seats swung to the other side.
+
+This ride seemed to leech off the theming for Medusa, feeling like a jungle outcropping from the temple. The initial switchbacks led to a set of stairs, with one more switchback leading to the station. With how much Six Flags has been neglecting the station building, and the shoddy fence around the elevated queue portion almost helped the theming. The ride's paint is also a little bit old, but at this point, that's also part of the worn down jungle theming.
+
+### Sand Serpent (?)
+
+Oh my god, the train is long. I was expecting some kind of whip around the elements from sitting in the back, but the ride seems to have been designed to be as forceless as possible. I guess the long train allows you to go further with less speed.
+
+### Medusa
+
+B&M Sure knows how to make a coaster with 7 inversions. It's kind of like the hotel room of coasters. They're all essentially the same, but each one has its little quirks that make them stand out. This ride's unique features are pretty cool. The straight drop is nice, but I didn't get too much airtime off of it. Good loop, into a dive loop, into a zero-G roll. Pretty standard fare, and I love how the zero-G roll feels. 
+
+The Sea Serpent Roll is the signature element of this ride, and I found it a little weirder than I thought. In theory, it's a half loop that exits in a corkscrew, immediately into another corkscrew that turns into a half loop. Almost like a Cobra Roll, but you exit the same direction as you start. However, the two corkscrews at the top don't flow into each other. It feels like you get out of the first roll, shuffle around a little bit, and roll back into the other corkscrew. I feel like part of the problem is that B&M doesn't do straight corkscrews, concentrating the rotation at the apex, but they still wanted the ride to look like it does a continuous roll. What's funny is that there is a better sea serpent roll feet away.
+
+The ride looks like it was just recently painted, and the green and purple really stand out. Since it exends out into the entrance plaza, it makes for a really nice entry experience. And of course, when you're leaving, you can line up the apex of the zero-G roll with the loop, and it's so satisfying to look at.
 
 # Wednesday 
